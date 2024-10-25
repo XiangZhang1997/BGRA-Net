@@ -1,4 +1,4 @@
-# BGRA-Net
+# BGRA-Net: Boundary-Guided and Region-Aware Convolutional Neural Network for the Segmentation of Breast Ultrasound Images (IEEE BIBM)
 ## Reference
 **Zhang, X., Li, X., Hu, K., & Gao, X.**  
    "BGRA-Net: Boundary-Guided and Region-Aware Convolutional Neural Network for the Segmentation of Breast Ultrasound Images."  
